@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/mubarakhalketbi-game-asset-mcp-badge.png)](https://mseep.ai/app/mubarakhalketbi-game-asset-mcp)
+
 # Game Asset Generator using MCP and Hugging Face Spaces
 
 This project is an innovative tool that simplifies game asset creation by leveraging AI-powered generation. Whether you're a game developer seeking rapid prototypes or an AI enthusiast exploring generative models, this tool enables you to create **2D** and **3D game assets** from text prompts effortlessly. It integrates AI models from **Hugging Face Spaces**—powered by `"gokaygokay/Flux-2D-Game-Assets-LoRA"`, `"gokaygokay/Flux-Game-Assets-LoRA-v2"`, and one of three 3D model generation spaces (`InstantMesh`, `Hunyuan3D-2`, or `Hunyuan3D-2mini-Turbo`, which you must duplicate to your account)—and uses the **Model Context Protocol (MCP)** for seamless interaction with AI assistants like **Claude Desktop**.
